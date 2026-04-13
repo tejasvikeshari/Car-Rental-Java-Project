@@ -27,4 +27,5 @@ The Car Rental Service application provides a seamless flow for customers to reg
 ### Prerequisites
 * Java Development Kit (JDK) installed.
 * VS Code or any Java-supported IDE.
+* ![Project Screenshot](Screenshot (46).png)
 
