@@ -1,0 +1,2 @@
+# Car-Rental-Java-Project
+🚗 Car Rental Management System A desktop-based application developed in Java using the Swing and AWT frameworks. This project was built as part of my Summer Training to demonstrate core concepts of Object-Oriented Programming (OOP) and Graphical User Interface (GUI) design.  📋 Project Overview The Car Rental Service is designed to streamline the process of booking a vehicle. It provides a multi-step user journey, from registration to final billing, ensuring a smooth and user-friendly experience.
